@@ -14,4 +14,4 @@ Demo : Xplace: An Extremely Fast and Extensible Placement Framework
 
 ### Paper4 & demo4
 Paper : Xplace: An Extremely Fast and Extensible Placement Framework
-Demo : GGR: Superfast Full-Scale GPU-Accelerated Global Routing![image](https://github.com/user-attachments/assets/b8c64f16-e4e8-4b7b-a2a2-463dd58948e5)
+Demo : GGR: Superfast Full-Scale GPU-Accelerated Global Routing
