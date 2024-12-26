@@ -9,9 +9,11 @@ DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Place
 ABCDPlace: Accelerated Batch-Based Concurrent Detailed Placement on Multithreaded CPUs and GPUs
 
 ### Paper3 & demo3
-Paper : AutoDMP: Automated DREAMPlace-based Macro Placement
+Paper : AutoDMP: Automated DREAMPlace-based Macro Placement  
+
 Demo : Xplace: An Extremely Fast and Extensible Placement Framework
 
 ### Paper4 & demo4
-Paper : Xplace: An Extremely Fast and Extensible Placement Framework
+Paper : Xplace: An Extremely Fast and Extensible Placement Framework  
+
 Demo : GGR: Superfast Full-Scale GPU-Accelerated Global Routing
